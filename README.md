@@ -12,7 +12,3 @@ Refer to `requirements.txt` for more details.
 **Datasets Included:**
 
 `Cora`; `Pubmed`; `Flickr`; `OGB-arxiv`
-
-
-# DMGNN-A1
-# DMGNN-A1
